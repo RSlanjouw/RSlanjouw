@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Voor contact email me op: ruben.lanjouw14@gmail.com
+
+For contact please email me on: ruben.lanjouw14@gmail.com
+
 <!--
 **RSlanjouw/RSlanjouw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
